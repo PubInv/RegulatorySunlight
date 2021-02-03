@@ -14,7 +14,7 @@ The diagram in the directory may give you a general idea of our approach.
 
 ## A Related Motivation
 
-Based on some work by Sabrina Merlo of OSMS, I wrote [this essay](https://docs.google.com/document/d/1Pw9d6etTq27zWiV7AkPupDx-u21YB-dLqVroF-0IB-M/edit?usp=sharing) proposing a new kind of FDA clearance.  This is independent of the license, but it is related as a motivational work, so I'm linking it here.
+Based on some work by Sabrina Merlo of OSMS, I wrote [this essay](https://drive.google.com/file/d/1xfBjMTONFhK5lZOX-sC1vlHXdiNT_l_K/view?usp=sharing) proposing a new kind of FDA clearance.  This is independent of the license, but it is related as a motivational work, so I'm linking it here.
 
 ## Acknowledgments
 

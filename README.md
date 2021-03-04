@@ -16,7 +16,7 @@ The diagram in the directory may give you a general idea of our approach.
 
 ## A Related Motivation
 
-Based on some work by Sabrina Merlo of OSMS, I wrote [this essay](https://drive.google.com/file/d/1nThDxa9eJ8GvpfHgfPXKkHgzPhoRY9Aq/view?usp=sharing) proposing a new kind of FDA clearance.  This is independent of the license, but it is related as a motivational work, so I'm linking it here. It has been submitted to the [Day One Project](https://www.dayoneproject.org/).
+Based on some work by Sabrina Merlo of OSMS, I wrote [this essay](https://www.pubinv.org/2021/03/03/a-new-kind-of-fda-clearance-design-clearance/) proposing a new kind of FDA clearance.  This is independent of the license, but it is related as a motivational work, so I'm linking it here. It has been submitted to the [Day One Project](https://www.dayoneproject.org/).
 
 ## Acknowledgments
 

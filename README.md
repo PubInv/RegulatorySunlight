@@ -8,10 +8,6 @@ and test documentation by forcing publication at the time of reuse for regulator
 
 We are currently using a [commentable google doc](https://docs.google.com/document/d/1PVDh55CssjKDlNG06Blz3yN5ZMRx6sKONC2ysyCE6x0/edit?usp=sharing) as our working document.
 
-## Early Efforts
-
-This project is in its infancy. We (Marc Jones and Rob Read for now) are drafting our thoughts via a [shared google doc](https://docs.google.com/document/d/1JuYIg1NQoANcDVE1M0iTZImYlMcQ7Ell_UU7sDQGMKw/edit?usp=sharing) for now.
-
 The diagram in the directory may give you a general idea of our approach.
 
 ## A Related Motivation

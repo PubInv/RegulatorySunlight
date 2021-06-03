@@ -1,9 +1,9 @@
 # MedDev: Medical Device Regulatory Approval Sunlight License
 
 This is the home repo for MedDev, an attempt to construct a new kind of free-libre open source license aimed specifically at medical devices.
-The COVID-19 pandemic has demonstrated the need for open, tranparent devices which are both suppy-chain resilient and fully tested under
+The COVID-19 pandemic has demonstrated the need for open, transparent devices which are both suppy-chain resilient and fully tested under
 normal regulatory regimes. In order to build an system of for-profit and non-profit firms that support such devices to alleviate want 
-now and in the future, we believ a license that encourages a new kind of sharing is required: one that allows re-use of device designs
+now and in the future, we believe a license that encourages a new kind of sharing is required: one that allows re-use of device designs
 and test documentation by forcing publication at the time of reuse for regulatory clearance.
 
 We are currently using a [commentable google doc](https://docs.google.com/document/d/1PVDh55CssjKDlNG06Blz3yN5ZMRx6sKONC2ysyCE6x0/edit?usp=sharing) as our working document.

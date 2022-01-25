@@ -6,7 +6,13 @@ normal regulatory regimes. In order to build an system of for-profit and non-pro
 now and in the future, we believe a license that encourages a new kind of sharing is required: one that allows re-use of device designs
 and test documentation by forcing publication at the time of reuse for regulatory clearance.
 
-We are currently using a [commentable google doc](https://docs.google.com/document/d/1PVDh55CssjKDlNG06Blz3yN5ZMRx6sKONC2ysyCE6x0/edit?usp=sharing) as our working document.
+# Current Documents
+
+Our [current legal draft](https://docs.google.com/document/d/1PKiICLM_oCu_4w9RXFBXlSuWMaFJyENu6cKxtvP-3EY/edit?usp=sharing) is here. We are actively seeking attorneys to help us complete this draft.
+
+We have a set of [loose notes](https://docs.google.com/document/d/1PVDh55CssjKDlNG06Blz3yN5ZMRx6sKONC2ysyCE6x0/edit?usp=sharing) as a working document.
+
+We can of course give editing privileges to people who join this project. We are interested in volunteers with regulatory (especially FDA) experience, governement policy and health experience, and, in particular, lawyers with experience with free-libre open source licenses.
 
 The diagram in the directory may give you a general idea of our approach.
 
